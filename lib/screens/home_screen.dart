@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:gpt_gastos/models/transaction_type.dart';
-import 'package:gpt_gastos/models/transactions_model.dart';
 import 'package:gpt_gastos/providers/transaction_provider.dart';
 import 'package:gpt_gastos/screens/add_transaction_screen.dart';
 import 'package:provider/provider.dart';
