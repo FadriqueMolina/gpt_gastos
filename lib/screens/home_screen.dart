@@ -60,6 +60,7 @@ class HomeScreen extends StatelessWidget {
                           transactionProvider.addTransaction(
                             transaction: transaction,
                           );
+                          Navigator.pop(context);
                         },
                       ),
                 ),
